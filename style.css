@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: black;
+}
+
+#canvas1 {
+  border: 2px solid white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* height and width is equivalent to the image for the sake of tutorial */
+  /* script 1 */
+  /* width: 1040px; */
+  /* height: 999px; */
+  /* script 2 */
+  width: 499.5px;
+  height: 520px;
+
+}
